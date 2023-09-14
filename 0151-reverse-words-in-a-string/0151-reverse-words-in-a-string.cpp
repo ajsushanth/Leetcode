@@ -13,7 +13,7 @@ public:
                 if(ans == "") ans = str;
                 else ans = ans + " " + str;
                 str = "";
-                cout << ans << endl;
+                // cout << ans << endl;
             }
             else{
                 str = ch + str;
